@@ -1,2 +1,2 @@
 # Brick-Breaker
-Light Brick breaker game done with Java. Open for additional features.
+Light Brick breaker game done with PLAIN Java. Open for additional features.
